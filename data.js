@@ -43,7 +43,7 @@ const sponsorConfig = {
         'silver/redhat.png',
         'silver/solveva.png',
         'silver/t_systems.png',
-        'silver/ti8m.png',
+        'silver/ti8m.svg',
         'silver/worldline.png',
         'silver/zkb.png'
     ],
