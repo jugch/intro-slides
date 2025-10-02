@@ -34,7 +34,7 @@ const sponsorConfig = {
         'silver/erni.png',
         'silver/eviden.png',
         'silver/fincons.png',
-        'silver/hexagon.svg',
+        'silver/hexagon.png',
         'silver/innoq.svg',
         'silver/inventage.png',
         'silver/mp_technology2.png',
