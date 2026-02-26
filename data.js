@@ -1,9 +1,9 @@
 const sponsorConfig = {
     // Page title configuration
-    pageTitle: "JUG Switzerland Partners",
+    pageTitle: "JUG Switzerland Supporting Members",
     
     // Content of the headline on the first slide
-    headline: '<h2><b>A big thanks to our Supporting Members</b></h2>',
+    headline: '<h2><b>A big thank you to our Supporting Members</b></h2>',
 
     // The platinum sponsor image, relative to the 'images' folder
     platinumSponsor: 'platinum/mimacom.png',
@@ -53,10 +53,10 @@ const sponsorConfig = {
     // Make sure that all animations fit in the duration
     jugLogoDuration: 5000,
 
-    // Over all slides, each logo of the sponsors will be highlighted
+    // Overall slides, each logo of the sponsors will be highlighted
     // The following variables determine the times of these animations
     // Duration: How long the highlight animation lasts
-    // Delay: The waiting time before the animation is being played
+    // Delay: The waiting time before the animation is played
     platinumDuration: 4000,
     platinumDelay: 500,
 
