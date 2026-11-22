@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This repository is no longer maintained.**  
+> Development has moved to the [iJUG](https://www.ijug.eu/) Forgejo instance:  
+> https://git.ijug.eu/jugch/jugch-intro-slides
+
 # JUG Sponsor Slides
 
 This presentation is done pure HTML, CSS and JS there are no external dependencies.
